@@ -1,1 +1,3 @@
 I'm file c!
+
+This is a new header.
